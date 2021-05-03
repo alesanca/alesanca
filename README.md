@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alesanca
-- 👀 I’m interested in programming, films and games.
+- 👀 I’m interested in programming, asian comics (manga, manwha) and games.
 - 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate on a spanish company.
 - 📫 How to reach me ... alesan.ca3@gmail.com on gmail
